@@ -6,8 +6,8 @@ pages:
     - node_modules/
 
   script:
-  - yarn add
-  - yarn docs:build
+  - npm install
+  - npm run docs:build
   artifacts:
     paths:
     - public
