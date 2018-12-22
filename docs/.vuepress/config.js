@@ -15,6 +15,9 @@ module.exports = {
         sidebarDepth: 2,
         displayAllHeaders: true
     },
-    dest:'public'
+    dest:'public',
+    markdown: {
+        lineNumbers: true
+    }
 };
   

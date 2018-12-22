@@ -5,6 +5,7 @@
                 <img class="myheader" width="150" src="myheader.png" alt="logo">
             </a>
         </p>
+        
     </div>
 </template>
 <script>
@@ -13,9 +14,7 @@ export default {
         return {
 
         }
-    },
-
-
+    }
 }
 </script>
 
