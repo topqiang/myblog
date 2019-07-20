@@ -29,6 +29,7 @@
             <span>JavaScript</span>
             <span>TypeScript</span>
             <span>Vue</span>
+            <span>Nuxt</span>
             <span>ElementUI</span>
             <span>Vux</span>
             <span>XSS</span>
