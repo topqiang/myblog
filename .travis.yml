@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+- 10.15.3
+before_install:
+- openssl aes-256-cbc -K $encrypted_3aca6ec961fa_key -iv $encrypted_3aca6ec961fa_iv
+  -in id_rsa.enc -out ~/.ssh/id_rsa -d
+- chmod 600 ~/.ssh/id_rsa
+- echo -e "Host 39.104.165.95\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
+# before_script: npm install
+script: true
+after_success:
+- ssh ci@39.104.165.95 'cd /home/ci && git pull'
