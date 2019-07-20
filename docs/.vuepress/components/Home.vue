@@ -42,6 +42,7 @@
         <div class="mytag mytagsimple">
             <b>一般掌握：</b>
             <span>Express</span>
+            <span>Koa</span>
             <span>Node</span>
             <span>Linux</span>
             <span>Redis</span>
