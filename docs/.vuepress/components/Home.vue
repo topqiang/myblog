@@ -48,6 +48,7 @@
             <span>Nginx</span>
             <span>Mysql</span>
             <span>php</span>
+            <span>CI</span>
             <span>Thinkphp</span>
             <span>User Experience</span>
             <span>Team Building</span>
