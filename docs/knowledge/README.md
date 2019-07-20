@@ -1,3 +1,6 @@
 # 知识积累
 ------ 
-等待同步更新
+<Knowledge/>
+
+-----
+:ghost:[首页](/):clap:[个人简历](/self-info/):100:[项目经历](/project/) :punch:
