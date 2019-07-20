@@ -30,8 +30,7 @@
             <span>TypeScript</span>
             <span>Vue</span>
             <span>Nuxt</span>
-            <span>ElementUI</span>
-            <span>Vux</span>
+            <span>React</span>
             <span>XSS</span>
             <span>CSRF</span>
             <!-- <span>SVG</span> -->
