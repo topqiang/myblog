@@ -1,9 +1,19 @@
 export default {
     list:[{
+        name:"某金融系统",
+        companyName:"杭州某区块链公司",
+        startTime:"2019/02",
+        endTime:"至今",
+        technologyTag:["vue",'nuxt','websocket','webpack','Kcharts(自研)','node','koa','mysql'],
+        caseImage:[],
+        team:7,
+        projectDesc:"该项目为一款金融交易系统，功能模块包含有行情展示、实时深度、交易品种信息、账户资产管理、用户信息管理、交易管理、全网国际化等;该交易系统具备数据展现实时性、业务风险强一致性、数据交互校验复杂性等业务特点。同时也负责了活动推广项目(SEO友好)的开发，也借此机会采用了服务端渲染的形式开发。",
+        myHarvest:"由于该项目具备快速迭代的特性引入了持续交付的工具，保障了每一次发版效果更可控、高效和安全；同时也因为业务的负责性也分别对vue实现原理、网络加载性能、代码执行性能优化以及错误监控进行了一定的实践和积累。"
+    },{
         name:"车驿站养护中心",
         companyName:"众享车驿站（天津）网络科技有限公司",
         startTime:"2018/06",
-        endTime:"至今",
+        endTime:"2018/12",
         technologyTag:["vue",'elementUI','vuex','vue-router','axios','vux','webpack','v-charts','vue-amap',"Thinkphp5.0","redis","mysql"],
         caseImage:[],
         team:7,
